@@ -1,5 +1,5 @@
 # circle_of_squares
-  this script for drawing a circle by drawing mutiple squares 
+  this script for drawing a circle by drawing multiple squares 
   
 ## installation 
-  this script bluit on python 2 (trutle)
+  this script built on python 2 (turtle)
